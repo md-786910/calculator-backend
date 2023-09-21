@@ -1,4 +1,4 @@
-# Node.js Application Name
+# Node.js Calculations
 
 A brief description of your Node.js application.
 
@@ -25,3 +25,11 @@ List any prerequisites or dependencies that need to be installed before running 
 # Node.js and npm
 # MongoDB
 # etc.
+
+
+
+### Installation
+Add .env file
+
+```bash
+# create .env file and MONGO_URI = ""
